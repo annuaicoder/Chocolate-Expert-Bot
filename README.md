@@ -4,4 +4,4 @@ This bot is an chocolate expert. It will know everything about choclate. It will
 
 # Created by @annuaicoder
 
-## Check out the youtube video / channel at: @codewith
+## Check out the youtube video / channel at: @codewitha
